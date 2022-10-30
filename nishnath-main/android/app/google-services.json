@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125344379495",
+    "project_id": "personal-fa900",
+    "storage_bucket": "personal-fa900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125344379495:android:def6911daadd6eb02d9ac2",
+        "android_client_info": {
+          "package_name": "com.example.login_nishanth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125344379495-fmrqmns97sv07tib747k5oa23id3gsfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7rr35fquSyGWRFr_vg8Fi5d3tn7WrCNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125344379495-fmrqmns97sv07tib747k5oa23id3gsfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
